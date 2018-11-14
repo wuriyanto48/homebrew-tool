@@ -1,4 +1,4 @@
-class Blokade < Formula
+class Clical < Formula
     desc "simple calculator on cli"
     homepage "https://github.com/wuriyanto48/clical"
     url "https://github.com/wuriyanto48/clical/releases/download/v1.0.0/clical-v1.0.0.darwin-amd64.tar.gz"
