@@ -8,6 +8,6 @@
 
 - https://github.com/wuriyanto48/yowes
   ```shell
-  $ brew tap wuriyanto48/yowes
+  $ brew tap wuriyanto48/tool
   $ brew install yowes
   ```
