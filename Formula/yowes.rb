@@ -1,4 +1,4 @@
-class Clical < Formula
+class Yowes < Formula
     desc "an experimental unix's like WGET written in Go"
     homepage "https://github.com/wuriyanto48/yowes"
     url "https://github.com/wuriyanto48/yowes/releases/download/v0.0.0/yowes-v0.0.0.darwin-amd64.tar.gz"
