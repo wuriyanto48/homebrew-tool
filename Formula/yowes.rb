@@ -1,9 +1,9 @@
 class Yowes < Formula
     desc "an experimental unix's like WGET written in Go"
     homepage "https://github.com/wuriyanto48/yowes"
-    url "https://github.com/wuriyanto48/yowes/releases/download/v0.0.0/yowes-v0.0.0.darwin-amd64.tar.gz"
-    version "0.0.0"
-    sha256 "f397a6605e73c44889c2436289de9512cf565ba9e2819620a00cb4af1067b74f"
+    url "https://github.com/wuriyanto48/yowes/releases/download/v1.0.0/yowes-v1.0.0.darwin-amd64.tar.gz"
+    version "1.0.0"
+    sha256 "6c63a7d528b393e4cacd9884148fd063fc1c534f742e2809bd0a6f63f103325e"
   
     def install
       bin.install "yowes"
